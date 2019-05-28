@@ -1,5 +1,6 @@
 # Mirror-formulae
-Need help in finding a class for your project to solve Mirror equations....Then this repo is mainly for that
+Need help in finding a class for your project to solve Mirror equations....Then this repo is mainly for that..........
+
 Mirror-formulae.cs is a class file that contain method to assist programmers in developing application for solving the Image distance,object distance and focal length of Image formed from object using the Mirror Formula :
 (1/U) + (1/V) = (1/F)
 
