@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,9 +7,9 @@ namespace Mirror_formulae
 {
     class Mirror_formulaeCLI
     {
-        public int ObjectDist { get; set; }
-        public int FocalDist { get; set; }
-        public int ImageDist { get; set; }
+        private int ObjectDist { get; set; }
+        private int FocalDist { get; set; }
+        private int ImageDist { get; set; }
         public int ImageDistance(string MirrorType, double ObjectDistance, double FocalLength)
         {
            //Using Real is Positive.....
